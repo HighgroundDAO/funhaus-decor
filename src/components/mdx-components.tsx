@@ -1,4 +1,5 @@
 import type { MDXComponents } from "mdx/types";
+import { CldImage } from "next-cloudinary";
 import { PageHero } from "./Hero";
 import { Schema } from "./Schema";
 import { AffiliateLink } from "./AffiliateLink";
@@ -10,6 +11,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     Schema,
     AffiliateLink,
     AffiliateDisclosure,
+    CldImage,
     h1: (props) => (
       <h1 className="text-4xl font-heading font-bold tracking-tight mt-10 mb-4" {...props} />
     ),
