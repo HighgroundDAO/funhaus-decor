@@ -45,7 +45,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${archivoBlack.variable} h-full antialiased`}>
       <head>
-        <meta name="p:domain_verify" content="PENDING-VERIFICATION-CODE" />
+        <meta name="p:domain_verify" content="da85f01501025b4d5e43e3397ce9e146" />
       </head>
       <body className="min-h-full flex flex-col font-sans bg-background text-foreground">
         <SiteHeader />
