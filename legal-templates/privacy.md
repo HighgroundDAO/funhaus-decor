@@ -1,0 +1,75 @@
+---
+title: "Privacy Policy"
+description: "How {{SITE_NAME}} collects, uses, and protects information about visitors."
+---
+
+# Privacy Policy
+
+*Last updated: {{CURRENT_DATE}}*
+
+## Overview
+
+This Privacy Policy describes how {{SITE_NAME}} ("we," "our," or "us") collects, uses, and shares information about you when you visit {{DOMAIN}} (the "Site"). By using the Site, you agree to the practices described here.
+
+## Information we collect
+
+### Information you provide
+
+If you contact us through the contact form or by email, we receive the information you submit (name, email address, and message contents). We use this information to respond to your inquiry.
+
+### Information collected automatically
+
+When you visit the Site, our hosting provider and analytics tools may automatically collect:
+
+- Browser type and version
+- Operating system
+- Pages visited and time spent
+- Referring URL
+- Approximate location (country/region) based on IP address
+- Device type (desktop, mobile, tablet)
+
+This information is collected through cookies and similar technologies and is used to improve the Site.
+
+## Cookies
+
+We use cookies and similar tracking technologies for:
+
+- **Essential functionality** — to make the Site work
+- **Analytics** — to understand how visitors use the Site (Vercel Analytics, which is privacy-respecting and does not track personal data across sites)
+- **Affiliate tracking** — when you click an affiliate link, the destination site (e.g., Amazon) may set cookies to attribute sales
+
+You can disable cookies through your browser settings. The Site will continue to function but some features may be affected.
+
+## Third parties
+
+We share limited information with the following service providers as needed to operate the Site:
+
+- **Vercel** — hosting and analytics
+- **Cloudinary** — image and video hosting
+- **Amazon** — when you click affiliate links to Amazon
+- **Pinterest** — when you save content to Pinterest using the save button
+
+These services have their own privacy policies. We do not sell your personal information to third parties.
+
+## Children's privacy
+
+The Site is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us information, contact us at {{CONTACT_EMAIL}} and we will delete it.
+
+## Your rights
+
+Depending on your location, you may have rights under applicable privacy laws (GDPR, CCPA, etc.) to:
+
+- Access the personal information we hold about you
+- Request correction or deletion
+- Opt out of certain uses
+- Withdraw consent where processing is based on consent
+
+To exercise these rights, contact us at {{CONTACT_EMAIL}}.
+
+## Changes
+
+We may update this Privacy Policy from time to time. The "last updated" date at the top reflects the most recent revision. Material changes will be noted on the homepage.
+
+## Contact
+
+For privacy questions or to exercise rights, email {{CONTACT_EMAIL}}.

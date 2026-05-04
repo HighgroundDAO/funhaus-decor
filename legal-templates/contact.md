@@ -1,0 +1,30 @@
+---
+title: "Contact {{SITE_NAME}}"
+description: "Reach the team at {{SITE_NAME}}."
+---
+
+# Contact
+
+The fastest way to reach us is by email.
+
+## Email
+
+**General inquiries:** {{CONTACT_EMAIL}}
+
+**Corrections:** Use the same email and include the URL of the article and a brief description of the correction.
+
+**Press and partnerships:** Use the same email with "Press" or "Partnership" in the subject line.
+
+## Response time
+
+We respond to most messages within 3-5 business days. We're a small operation; we may take longer during high-volume periods.
+
+## What we don't do
+
+- We don't accept guest posts (all content is original).
+- We don't accept paid review requests.
+- We don't sell email lists or share visitor data with third parties.
+
+## Mailing address
+
+Available upon request for legal notices.

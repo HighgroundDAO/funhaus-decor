@@ -1,0 +1,43 @@
+---
+title: "Affiliate Disclosure"
+description: "How {{SITE_NAME}} earns money and what that means for our readers."
+---
+
+# Affiliate Disclosure
+
+*Last updated: {{CURRENT_DATE}}*
+
+## What this page tells you
+
+{{SITE_NAME}} is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
+We may also participate in other affiliate programs from time to time. When we do, we'll disclose that connection on relevant pages.
+
+## What this means for you
+
+When you click on certain product links on this site, we may receive a small commission at no additional cost to you if you decide to make a purchase. The price you pay for any product is the same whether you arrive at Amazon (or another retailer) through our link or directly.
+
+These commissions help us keep producing free content. They do not influence which products we recommend.
+
+## Our recommendation philosophy
+
+We recommend products based on:
+
+- Aggregated reviews and ratings from real customers
+- Specifications relevant to the topic
+- Reputation of the brand and manufacturer
+- Whether the product genuinely solves the problem the article addresses
+
+We do not accept payment from manufacturers in exchange for positive reviews. We do not write reviews for products we have not researched. If we have personal experience with a product, we say so explicitly.
+
+## How to identify affiliate links
+
+Affiliate links on {{SITE_NAME}} are marked with a small disclosure notice above the first product link in any article that contains them. Additionally, all affiliate links use proper HTML attributes (`rel="sponsored"`) so search engines can identify them.
+
+## As an Amazon Associate
+
+As an Amazon Associate, we earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc., or its affiliates.
+
+## Questions
+
+If you have questions about our affiliate relationships or recommendations, contact us at {{CONTACT_EMAIL}}.
