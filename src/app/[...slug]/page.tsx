@@ -20,11 +20,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : "FunHaus Decor",
     description: entry.frontmatter.description,
     openGraph: {
+      type: "article",
+      siteName: "FunHaus Decor",
       title: entry.frontmatter.title,
       description: entry.frontmatter.description,
       images: entry.frontmatter.og_image
         ? [entry.frontmatter.og_image]
         : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: entry.frontmatter.title,
+      description: entry.frontmatter.description,
     },
   };
 }
